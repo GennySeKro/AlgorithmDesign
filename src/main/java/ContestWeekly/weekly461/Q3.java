@@ -2,9 +2,6 @@ package ContestWeekly.weekly461;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Q3 {
     /*
     变为活跃时间的最小时间
