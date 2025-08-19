@@ -20,7 +20,7 @@ public class Q2 {
     }
 
     @Test
-    public void test(){
+    public void testSortPermutation(){
         System.out.println(sortPermutation(new int[]{0,2,3,1}));
     }
 }

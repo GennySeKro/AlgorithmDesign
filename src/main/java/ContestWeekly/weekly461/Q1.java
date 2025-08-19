@@ -31,7 +31,7 @@ public class Q1 {
     }
 
     @Test
-    public void test(){
+    public void testIsTrionic(){
         System.out.println(isTrionic(new int[]{3,7,1}));
     }
 }

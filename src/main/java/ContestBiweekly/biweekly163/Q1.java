@@ -14,7 +14,7 @@ public class Q1 {
 
 
     @Test
-    public void test(){
+    public void testMinSensors(){
         System.out.println(minSensors(5, 5, 1));
     }
 

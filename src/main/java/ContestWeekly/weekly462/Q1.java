@@ -22,7 +22,7 @@ public class Q1 {
     }
 
     @Test
-    public void test(){
+    public void testReverseSubmatrix(){
         System.out.println(Arrays.deepToString(reverseSubmatrix(new int[][]{
                 {1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}}, 1, 0, 3)));
     }

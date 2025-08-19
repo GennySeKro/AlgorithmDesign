@@ -23,7 +23,7 @@ public class Q2 {
     }
 
     @Test
-    public void test(){
+    public void testMaxBalancedShipments(){
         System.out.println(maxBalancedShipments(new int[]{1, 2}));
     }
 }

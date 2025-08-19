@@ -45,7 +45,7 @@ public class Q3 {
     }
 
     @Test
-    public void test(){
+    public void testMinTime(){
         System.out.println(minTime("ct1", new int[]{2, 1, 0}, 6));
     }
 }
